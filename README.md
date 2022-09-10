@@ -58,6 +58,9 @@
    32. Exibir o ```nome``` e ```vendidos``` dos produtos em que ```vendidos``` sejam múltiplos de 5.
 <br><br>
   
+  ## Avaliação
+  ![screenshot](./images/screenshot.png)
+
   ## Como contribuir no projeto
   1. Faça um **fork** do projeto;
   2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`;
@@ -113,7 +116,7 @@ The queries are inside the folder "challenges" and each challenge was created in
    11. Display ```nome```, ```vendidos``` and ```curtidas``` of all products except: "Big Mac" and "McChicken".
    12. Insert "Ketchup" to ```ingredientes``` for all products except "McChicken" (ensuring no repetition) and return ```nome``` and ```ingredientes``` for all products.
    13. Insert ```criadoPor``` with the value "Ronald McDonald" and return ```nome``` and ```criadoPor``` of all products.
-   14. Display all products that have "pickles" and limit to the first 3 results of the array ```valoresNutricionais``` (display only ```nome```, ```ingredientes``` and ```valoresNutricionais`` `).
+   14. Display all products that have "pickles" and limit to the first 3 results of the array ```valoresNutricionais``` (display only ```nome```, ```ingredientes``` and ```valoresNutricionais```).
    15. Insert ```avaliacao``` field for all products, assigning 3 to products that have the tag "ave", assigning 5 to products that have the tag "bovino", assigning 0 to others and returning ```nome``` and ```avaliacao``` of all products.
    16. Insert ```ultimaModificacao``` in "Big Mac" product with the current date value and return ```nome``` and ```ultimaModificacao``` of all products that have it.
    17. Create a new collection with the document ```franquia``` and the value "McDonalds" and the document ```produtos``` with the count of the produtos collection.
@@ -133,6 +136,9 @@ The queries are inside the folder "challenges" and each challenge was created in
    31. Display ```nome``` of products whose ```curtidas``` is greater than ```vendidos```.
    32. Display ```nome``` and ```vendidos``` of products where ```vendidos``` are multiples of 5.
 <br><br>
+
+## Rating
+  ![screenshot](./images/screenshot.png)
 
 ## How to contribute on the project
   1. Make a **fork** of the project;
